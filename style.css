@@ -88,7 +88,7 @@ h2 {
 
 .about-me {
   display: flex;
-  align-items: center; gap:40px
+  align-items: center
 }
 
 #about-me h1 {
